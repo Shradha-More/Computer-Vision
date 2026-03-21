@@ -1,0 +1,7 @@
+
+path: D:\Desktop\Shraddha\Computer Vision\image_segmentation_with_yolov8\data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['duck']
